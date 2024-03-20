@@ -8,7 +8,6 @@
     <modules>
         <module>WebSocketTest</module>
     </modules>
-
     <name>todolist Maven Webapp</name>
   <url>http://maven.apache.org</url>
     <properties>
