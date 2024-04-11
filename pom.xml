@@ -11,6 +11,7 @@
     <name>todolist Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
+  
     <properties>
         <spring.version>4.0.4.RELEASE</spring.version>
         <spring.security.version>3.2.6.RELEASE</spring.security.version>
