@@ -16,6 +16,7 @@
         <jackson.version>2.3.3</jackson.version>
     </properties>
     <dependencies>
+      
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
